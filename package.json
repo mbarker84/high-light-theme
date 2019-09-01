@@ -1,0 +1,21 @@
+{
+    "name": "high-light",
+    "displayName": "High Light",
+    "description": "High contrast light theme – perfect for presentations",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.37.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "High Light",
+                "uiTheme": "hc-black",
+                "path": "./themes/High Light-color-theme.json"
+            }
+        ]
+    }
+}
